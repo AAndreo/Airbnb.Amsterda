@@ -1,4 +1,4 @@
-# Análise exploratória de dados do mercado de hospedagens em Amsterdã da plataforma Airbnb.
+# Análise exploratória do mercado de hospedagens em Amsterdã da plataforma Airbnb.
 <img width="80%" src="https://raw.githubusercontent.com/AAndreo/Airbnb.Amsterda/main/Arquivos/Amsterdam2.png">
 
 ## Sobre
