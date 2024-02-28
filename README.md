@@ -1,6 +1,5 @@
 # Análise exploratória de dados do mercado de hospedagens em Amsterdã da plataforma Airbnb.
-<img width="80%" src="https://raw.githubusercontent.com/AAndreo/Analise.Case.Depressao/main/Arquivos/depressao.jpg">
-<a href="https://www.freepik.com/free-vector/flat-illustration-person-with-mental-health-problems_16692683.htm#page=2&query=depression%20symptons&position=11&from_view=search&track=ais&uuid=1d70b88b-cd41-4628-b2dc-2b77662fccc9">Image by pikisuperstar</a> on Freepik
+<img width="80%" src="https://raw.githubusercontent.com/AAndreo/Airbnb.Amsterda/main/Arquivos/Amsterdam2.png">
 
 ## Sobre
 
