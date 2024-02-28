@@ -2,27 +2,34 @@
 <img width="80%" src="https://raw.githubusercontent.com/AAndreo/Airbnb.Amsterda/main/Arquivos/Amsterdam2.png">
 
 ## Sobre
+O Airbnb fundado em Agosto de 2008, permite aos indivíduos alugar o todo ou parte de sua própria casa, como uma forma de acomodação extra.
+O site fornece uma plataforma de busca e reservas entre a pessoa que oferece a acomodação e o turista que busca pela locação, sendo atualmente considerada, a maior empresa hoteleira.
+
+Bem, o que posso dizer é que Amsterdã é capaz de encantar o visitante desde o primeiro momento e não são poucas as pessoas que aqui voltam várias e várias vezes. Um destino cheio de paisagens encantadoras, arquitetura de tirar o fôlego, ruas “cortadas” por ciclovias, canais e onde encontram-se pelo menos mil pontes.
+Uma cidade com uma atmosfera incrível, cheia de história, romântica e com opções de entretenimento que agradam pessoas de todas as idades: museus como o Van Gogh e o Rijks, bares e restaurantes para todos os gostos, bairros vibrantes como o Jordaan e o De Pijp, parques como o Vondelpark, praças como a Leidseplein, a Dam e a Rembrandtplein, e festividades como O Dia do Rei (27 de abril) e muito mais.
 
 ## Descrição
-Essa análise traz informações referentes a tipo de imóveis e localização disponíveis para locação, preço médio, número mínimo de diárias exigidas, opções de locação para quem pode pagar caro, mas não esquecendo de buscar oportunidades que possam atender também as pessoas que querem ficar próximas as melhores localizações, mas não podem gastar muito com o aluguel.
+Análise exploratória de dados referentes ao mercado de hospedagens em Amsterdã da plataforma Airbnb, identificando tendências e características que possam influenciar no valores práticados nas locações.
 
-  * [Projeto completo](Case.Drepressao.ipynb)
+  * [Projeto completo](Analisando_Dados_Airbnb_Amsterdam.ipynb)
 
 ## Nossos dados
-* São estas as bases:
-    * DEMO_PHQ.csv: banco de dados contendo 5334 observações de adultos pesquisados no NHANES 2005-2006.
-    * PAG_HEI.csv: banco de dados contendo 9424 observações de crianças e adultos pesquisados no NHANES 2005-2006.
+Todos os dados usados aqui foram obtidos a partir do site [Inside Airbnb](http://insideairbnb.com/get-the-data.html).
+Para esta análise exploratória inicial, será baixado apenas o seguinte arquivo:
+* `listings.csv` - *Informações resumidas e métricas para listagens em Amsterdã (bom para visualizações).*
+
+Os dados utilizados neste projeto são referentes a compilação do Airbnb do dia 07/09/2022.
 
 ## **Nosso desafio**
-* Realizar a análise de dados sobre a depressão e seus fatores.
+* Realizar a análise exploratória de dados sobre o mercado de hospedagens em Amsterdã.
   
 ## **Qual é o objetivo?**
 * Buscar respostas para as seguintes perguntas:
-  * Qual o perfil de indivíduos (adultos maiores de 18 anos) com sintomas depressivos nos EUA no período de 2005-2006?
-  * Hábitos saudáveis de alimentação e atividade física estão associados a menores índices de depressão nesta população?
-* Fornecer pontos de destaque, melhorias e limitações pertinentes a nossa análise.
-
-## **Como?**
-* Através da análise descritiva e inferencial dos dados, identificando padrões e tendências relevantes, realizando vários testes de hipóteses que buscam associações significativas entre as variáveis. Com isso conseguiremos uma visão mais completa dos dados, para que possamos interpretar as informações através de evidências, trazendo respostas e sugestões para futuras melhorias.
+  * Qual a média dos preços de aluguel?
+  * Qual o tipo de imóvel mais alugado no Airbnb?
+  * Qual o valor do preço médio por tipo de locação?
+  * Qual a localidade mais cara de Amsterdã?
+  * Qual o imóvel disponível para locação, mais caro de Amsterdã
+  * Existem oportunidades que possam atender as pessoas que querem ficar próximas as melhores localizações, mas não podem gastar muito com a locação?
 
 
